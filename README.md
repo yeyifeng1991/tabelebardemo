@@ -1,0 +1,2 @@
+# tabelebardemo
+根据tableview的上下滑动来判断是否显示导航栏和tablebar
